@@ -31,12 +31,6 @@
   "name": "Shape/Circle",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "6F071F34-9B67-4886-96F4-AEFDE58600A1",
-      "overrideName": "E5F2F389-C07D-4C1B-8056-6A84120CE577_symbolID",
-      "value": "CF4E16D5-1CDE-427D-AACA-CB8BEDE25E86"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
