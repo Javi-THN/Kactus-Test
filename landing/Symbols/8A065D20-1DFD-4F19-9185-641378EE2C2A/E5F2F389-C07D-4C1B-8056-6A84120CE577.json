@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "85A4D66F-B19A-4154-B74A-091062575A14",
+  "do_objectID": "E5F2F389-C07D-4C1B-8056-6A84120CE577",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0FF3F67D-44A3-4E14-A753-41BF063F7002",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 83,
-    "width": 83,
-    "x": 105,
-    "y": 201
+    "do_objectID": "881680EA-B8F8-49BF-8D22-11F9A9A9CE1F",
+    "height": 90,
+    "width": 91,
+    "x": -5,
+    "y": -2
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Shape/Circle",
-  "nameIsFixed": false,
+  "name": "Color",
+  "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "6F071F34-9B67-4886-96F4-AEFDE58600A1",
-      "overrideName": "E5F2F389-C07D-4C1B-8056-6A84120CE577_symbolID",
-      "value": "CF4E16D5-1CDE-427D-AACA-CB8BEDE25E86"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,12 +41,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "44383D73-C6F1-4402-8957-F4C7944C8EA9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A7E3C375-F642-448C-B19A-7DF456E75C1D",
+  "symbolID": "EA9D77B1-73D6-4A07-8354-FB51A303DE7C",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
