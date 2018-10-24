@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FAF7688C-530E-4FB7-BBEB-B3DB8629B42E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 345,
+  "clippingMaskMode": 0,
+  "do_objectID": "F76C72E1-3D8D-4372-8E4E-164A58B0CB0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAFC9EC0-860E-4E57-8F2B-A1B8B02B6986",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C91999DB-A35E-43EB-BCD0-60DE61569EB2",
+    "height": 19,
+    "width": 62,
+    "x": 244,
+    "y": 32
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5F466D12-C511-4752-A2AD-B2BAB5AE04E8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ACF405BA-F4E0-46B0-BBC1-E84025D39FF3"
+    }
+  ],
+  "name": "Royal-Blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD8A7426-856B-4266-825E-A2BB58624D01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EA9D77B1-73D6-4A07-8354-FB51A303DE7C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C7EB1F11-7354-4949-9EAB-5A9F74A2B0FD",
+    "guides": [
+    ]
+  }
+}
